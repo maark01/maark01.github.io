@@ -1,0 +1,26 @@
+
+
+h3{
+    font-family: arial;
+    color: white;
+}
+body{
+    background-color: red;
+}
+p{
+    font-family: Arial;
+    color: white;
+    font-size: 14px;
+    width: 800px;
+    text-align: justify;
+}
+h4{
+    font-family: arial;
+    color: white;
+}
+
+td{
+    font-family: arial;
+    color: white;
+    text-align: justify;
+}
