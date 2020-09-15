@@ -1,14 +1,16 @@
 
 
-h3 {
+.alcim {
     font-family: arial;
     color: white;
+    margin-top: auto;
 }
 
 body {
     background-color: red;
     overflow-y: scroll;
     overflow-x: scroll;
+    margin: auto;
 }
 p {
     font-family: Arial;
@@ -17,6 +19,7 @@ p {
     width: 750px;
     text-align: justify;
 }
+
 h4 {
     font-family: arial;
     color: white;
@@ -29,12 +32,14 @@ td {
 }
 
 .buran2 {
+    margin-top: 20px;
     width: 100px;
     height: 150px;
 }
 
 table {
     border-collapse: collapse;
+    margin-right: 10px;
 }
 
 table, th, td {
@@ -44,9 +49,8 @@ table, th, td {
   .oszlopeleje {
       font-weight: bolder;
   }
-
   .oszlopvege {
-      text-align: center;
+    text-align: center;
   }
 
   .buran3 {
@@ -55,6 +59,37 @@ table, th, td {
   }
 
   .buran4 {
-    width: 800px;
+    width: 750px;
     float: left;   
+}
+
+.topnav2 {
+    overflow: hidden;
+    background-color: #333;
+    margin-top: 10%;
+}
+
+.topnav2 a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Arial;
+}
+
+.topnav2 a:hover {
+    background-color: #dddddd;
+    color: white;
+}
+
+.topnav2 a.active2 {
+    background-color: #4caf50;
+    color: white;
+}
+
+.ok101 {
+ width: 430px;
+ margin-top: 25px;
 }
