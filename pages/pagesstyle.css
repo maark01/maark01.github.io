@@ -45,6 +45,10 @@ table, th, td {
       font-weight: bolder;
   }
 
+  .oszlopvege {
+      text-align: center;
+  }
+
   .buran3 {
       width: 400px;
       float: right;
